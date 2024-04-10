@@ -2,7 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        int[] array = new int[] {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+        int[] array = new int[] {53, 32, 85, 16, 89, 46, 84, 60, 69, 11};
         int X = 99; // Add Value
         int index = 8; // Vi tri de add.
 
